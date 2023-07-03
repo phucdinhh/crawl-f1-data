@@ -1,0 +1,178 @@
+[
+  {
+    "grand_prix": "Bahrain",
+    "date": "20 Mar 2022",
+    "winner": "Charles Leclerc",
+    "car": "Ferrari",
+    "laps": 57,
+    "time": "1:37:33.584"
+  },
+  {
+    "grand_prix": "Saudi Arabia",
+    "date": "27 Mar 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 50,
+    "time": "1:24:19.293"
+  },
+  {
+    "grand_prix": "Australia",
+    "date": "10 Apr 2022",
+    "winner": "Charles Leclerc",
+    "car": "Ferrari",
+    "laps": 58,
+    "time": "1:27:46.548"
+  },
+  {
+    "grand_prix": "Emilia Romagna",
+    "date": "24 Apr 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 63,
+    "time": "1:32:07.986"
+  },
+  {
+    "grand_prix": "Miami",
+    "date": "08 May 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 57,
+    "time": "1:34:24.258"
+  },
+  {
+    "grand_prix": "Spain",
+    "date": "22 May 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 66,
+    "time": "1:37:20.475"
+  },
+  {
+    "grand_prix": "Monaco",
+    "date": "29 May 2022",
+    "winner": "Sergio Perez",
+    "car": "Red Bull Racing RBPT",
+    "laps": 64,
+    "time": "1:56:30.265"
+  },
+  {
+    "grand_prix": "Azerbaijan",
+    "date": "12 Jun 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 51,
+    "time": "1:34:05.941"
+  },
+  {
+    "grand_prix": "Canada",
+    "date": "19 Jun 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 70,
+    "time": "1:36:21.757"
+  },
+  {
+    "grand_prix": "Great Britain",
+    "date": "03 Jul 2022",
+    "winner": "Carlos Sainz",
+    "car": "Ferrari",
+    "laps": 52,
+    "time": "2:17:50.311"
+  },
+  {
+    "grand_prix": "Austria",
+    "date": "10 Jul 2022",
+    "winner": "Charles Leclerc",
+    "car": "Ferrari",
+    "laps": 71,
+    "time": "1:24:24.312"
+  },
+  {
+    "grand_prix": "France",
+    "date": "24 Jul 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 53,
+    "time": "1:30:02.112"
+  },
+  {
+    "grand_prix": "Hungary",
+    "date": "31 Jul 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 70,
+    "time": "1:39:35.912"
+  },
+  {
+    "grand_prix": "Belgium",
+    "date": "28 Aug 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 44,
+    "time": "1:25:52.894"
+  },
+  {
+    "grand_prix": "Netherlands",
+    "date": "04 Sep 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 72,
+    "time": "1:36:42.773"
+  },
+  {
+    "grand_prix": "Italy",
+    "date": "11 Sep 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 53,
+    "time": "1:20:27.511"
+  },
+  {
+    "grand_prix": "Singapore",
+    "date": "02 Oct 2022",
+    "winner": "Sergio Perez",
+    "car": "Red Bull Racing RBPT",
+    "laps": 59,
+    "time": "2:02:20.238"
+  },
+  {
+    "grand_prix": "Japan",
+    "date": "09 Oct 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 28,
+    "time": "3:01:44.004"
+  },
+  {
+    "grand_prix": "United States",
+    "date": "23 Oct 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 56,
+    "time": "1:42:11.687"
+  },
+  {
+    "grand_prix": "Mexico",
+    "date": "30 Oct 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 71,
+    "time": "1:38:36.729"
+  },
+  {
+    "grand_prix": "Brazil",
+    "date": "13 Nov 2022",
+    "winner": "George Russell",
+    "car": "Mercedes",
+    "laps": 71,
+    "time": "1:38:34.044"
+  },
+  {
+    "grand_prix": "Abu Dhabi",
+    "date": "20 Nov 2022",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing RBPT",
+    "laps": 58,
+    "time": "1:27:45.914"
+  }
+]

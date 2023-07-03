@@ -1,0 +1,178 @@
+[
+  {
+    "grand_prix": "Bahrain",
+    "date": "28 Mar 2021",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 56,
+    "time": "1:32:03.897"
+  },
+  {
+    "grand_prix": "Emilia Romagna",
+    "date": "18 Apr 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 63,
+    "time": "2:02:34.598"
+  },
+  {
+    "grand_prix": "Portugal",
+    "date": "02 May 2021",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 66,
+    "time": "1:34:31.421"
+  },
+  {
+    "grand_prix": "Spain",
+    "date": "09 May 2021",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 66,
+    "time": "1:33:07.680"
+  },
+  {
+    "grand_prix": "Monaco",
+    "date": "23 May 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 78,
+    "time": "1:38:56.820"
+  },
+  {
+    "grand_prix": "Azerbaijan",
+    "date": "06 Jun 2021",
+    "winner": "Sergio Perez",
+    "car": "Red Bull Racing Honda",
+    "laps": 51,
+    "time": "2:13:36.410"
+  },
+  {
+    "grand_prix": "France",
+    "date": "20 Jun 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 53,
+    "time": "1:27:25.770"
+  },
+  {
+    "grand_prix": "Styria",
+    "date": "27 Jun 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 71,
+    "time": "1:22:18.925"
+  },
+  {
+    "grand_prix": "Austria",
+    "date": "04 Jul 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 71,
+    "time": "1:23:54.543"
+  },
+  {
+    "grand_prix": "Great Britain",
+    "date": "18 Jul 2021",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 52,
+    "time": "1:58:23.284"
+  },
+  {
+    "grand_prix": "Hungary",
+    "date": "01 Aug 2021",
+    "winner": "Esteban Ocon",
+    "car": "Alpine Renault",
+    "laps": 70,
+    "time": "2:04:43.199"
+  },
+  {
+    "grand_prix": "Belgium",
+    "date": "29 Aug 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 1,
+    "time": "0:03:27.071"
+  },
+  {
+    "grand_prix": "Netherlands",
+    "date": "05 Sep 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 72,
+    "time": "1:30:05.395"
+  },
+  {
+    "grand_prix": "Italy",
+    "date": "12 Sep 2021",
+    "winner": "Daniel Ricciardo",
+    "car": "McLaren Mercedes",
+    "laps": 53,
+    "time": "1:21:54.365"
+  },
+  {
+    "grand_prix": "Russia",
+    "date": "26 Sep 2021",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 53,
+    "time": "1:30:41.001"
+  },
+  {
+    "grand_prix": "Turkey",
+    "date": "10 Oct 2021",
+    "winner": "Valtteri Bottas",
+    "car": "Mercedes",
+    "laps": 58,
+    "time": "1:31:04.103"
+  },
+  {
+    "grand_prix": "United States",
+    "date": "24 Oct 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 56,
+    "time": "1:34:36.552"
+  },
+  {
+    "grand_prix": "Mexico",
+    "date": "07 Nov 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 71,
+    "time": "1:38:39.086"
+  },
+  {
+    "grand_prix": "Brazil",
+    "date": "14 Nov 2021",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 71,
+    "time": "1:32:22.851"
+  },
+  {
+    "grand_prix": "Qatar",
+    "date": "21 Nov 2021",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 57,
+    "time": "1:24:28.471"
+  },
+  {
+    "grand_prix": "Saudi Arabia",
+    "date": "05 Dec 2021",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 50,
+    "time": "2:06:15.118"
+  },
+  {
+    "grand_prix": "Abu Dhabi",
+    "date": "12 Dec 2021",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 58,
+    "time": "1:30:17.345"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "pos": 1,
+    "driver": "Max Verstappen",
+    "nationality": "NED",
+    "car": "Red Bull Racing Honda RBPT",
+    "pts": 229
+  },
+  {
+    "pos": 2,
+    "driver": "Sergio Perez",
+    "nationality": "MEX",
+    "car": "Red Bull Racing Honda RBPT",
+    "pts": 148
+  },
+  {
+    "pos": 3,
+    "driver": "Fernando Alonso",
+    "nationality": "ESP",
+    "car": "Aston Martin Aramco Mercedes",
+    "pts": 131
+  },
+  {
+    "pos": 4,
+    "driver": "Lewis Hamilton",
+    "nationality": "GBR",
+    "car": "Mercedes",
+    "pts": 106
+  },
+  {
+    "pos": 5,
+    "driver": "Carlos Sainz",
+    "nationality": "ESP",
+    "car": "Ferrari",
+    "pts": 82
+  },
+  {
+    "pos": 6,
+    "driver": "Charles Leclerc",
+    "nationality": "MON",
+    "car": "Ferrari",
+    "pts": 72
+  },
+  {
+    "pos": 7,
+    "driver": "George Russell",
+    "nationality": "GBR",
+    "car": "Mercedes",
+    "pts": 72
+  },
+  {
+    "pos": 8,
+    "driver": "Lance Stroll",
+    "nationality": "CAN",
+    "car": "Aston Martin Aramco Mercedes",
+    "pts": 44
+  },
+  {
+    "pos": 9,
+    "driver": "Esteban Ocon",
+    "nationality": "FRA",
+    "car": "Alpine Renault",
+    "pts": 31
+  },
+  {
+    "pos": 10,
+    "driver": "Lando Norris",
+    "nationality": "GBR",
+    "car": "McLaren Mercedes",
+    "pts": 24
+  },
+  {
+    "pos": 11,
+    "driver": "Pierre Gasly",
+    "nationality": "FRA",
+    "car": "Alpine Renault",
+    "pts": 16
+  },
+  {
+    "pos": 12,
+    "driver": "Nico Hulkenberg",
+    "nationality": "GER",
+    "car": "Haas Ferrari",
+    "pts": 9
+  },
+  {
+    "pos": 13,
+    "driver": "Alexander Albon",
+    "nationality": "THA",
+    "car": "Williams Mercedes",
+    "pts": 7
+  },
+  {
+    "pos": 14,
+    "driver": "Oscar Piastri",
+    "nationality": "AUS",
+    "car": "McLaren Mercedes",
+    "pts": 5
+  },
+  {
+    "pos": 15,
+    "driver": "Valtteri Bottas",
+    "nationality": "FIN",
+    "car": "Alfa Romeo Ferrari",
+    "pts": 5
+  },
+  {
+    "pos": 16,
+    "driver": "Guanyu Zhou",
+    "nationality": "CHN",
+    "car": "Alfa Romeo Ferrari",
+    "pts": 4
+  },
+  {
+    "pos": 17,
+    "driver": "Yuki Tsunoda",
+    "nationality": "JPN",
+    "car": "AlphaTauri Honda RBPT",
+    "pts": 2
+  },
+  {
+    "pos": 18,
+    "driver": "Kevin Magnussen",
+    "nationality": "DEN",
+    "car": "Haas Ferrari",
+    "pts": 2
+  },
+  {
+    "pos": 19,
+    "driver": "Logan Sargeant",
+    "nationality": "USA",
+    "car": "Williams Mercedes",
+    "pts": 0
+  },
+  {
+    "pos": 20,
+    "driver": "Nyck De Vries",
+    "nationality": "NED",
+    "car": "AlphaTauri Honda RBPT",
+    "pts": 0
+  }
+]

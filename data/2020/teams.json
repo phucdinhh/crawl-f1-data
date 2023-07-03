@@ -1,0 +1,52 @@
+[
+  {
+    "pos": 1,
+    "team": "Mercedes",
+    "pts": 573
+  },
+  {
+    "pos": 2,
+    "team": "Red Bull Racing Honda",
+    "pts": 319
+  },
+  {
+    "pos": 3,
+    "team": "McLaren Renault",
+    "pts": 202
+  },
+  {
+    "pos": 4,
+    "team": "Racing Point BWT Mercedes",
+    "pts": 195
+  },
+  {
+    "pos": 5,
+    "team": "Renault",
+    "pts": 181
+  },
+  {
+    "pos": 6,
+    "team": "Ferrari",
+    "pts": 131
+  },
+  {
+    "pos": 7,
+    "team": "AlphaTauri Honda",
+    "pts": 107
+  },
+  {
+    "pos": 8,
+    "team": "Alfa Romeo Racing Ferrari",
+    "pts": 8
+  },
+  {
+    "pos": 9,
+    "team": "Haas Ferrari",
+    "pts": 3
+  },
+  {
+    "pos": 10,
+    "team": "Williams Mercedes",
+    "pts": 0
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "grand_prix": "Austria",
+    "date": "05 Jul 2020",
+    "winner": "Valtteri Bottas",
+    "car": "Mercedes",
+    "laps": 71,
+    "time": "1:30:55.739"
+  },
+  {
+    "grand_prix": "Styria",
+    "date": "12 Jul 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 71,
+    "time": "1:22:50.683"
+  },
+  {
+    "grand_prix": "Hungary",
+    "date": "19 Jul 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 70,
+    "time": "1:36:12.473"
+  },
+  {
+    "grand_prix": "Great Britain",
+    "date": "02 Aug 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 52,
+    "time": "1:28:01.283"
+  },
+  {
+    "grand_prix": "70th Anniversary",
+    "date": "09 Aug 2020",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 52,
+    "time": "1:19:41.993"
+  },
+  {
+    "grand_prix": "Spain",
+    "date": "16 Aug 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 66,
+    "time": "1:31:45.279"
+  },
+  {
+    "grand_prix": "Belgium",
+    "date": "30 Aug 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 44,
+    "time": "1:24:08.761"
+  },
+  {
+    "grand_prix": "Italy",
+    "date": "06 Sep 2020",
+    "winner": "Pierre Gasly",
+    "car": "AlphaTauri Honda",
+    "laps": 53,
+    "time": "1:47:06.056"
+  },
+  {
+    "grand_prix": "Tuscany",
+    "date": "13 Sep 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 59,
+    "time": "2:19:35.060"
+  },
+  {
+    "grand_prix": "Russia",
+    "date": "27 Sep 2020",
+    "winner": "Valtteri Bottas",
+    "car": "Mercedes",
+    "laps": 53,
+    "time": "1:34:00.364"
+  },
+  {
+    "grand_prix": "Eifel",
+    "date": "11 Oct 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 60,
+    "time": "1:35:49.641"
+  },
+  {
+    "grand_prix": "Portugal",
+    "date": "25 Oct 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 66,
+    "time": "1:29:56.828"
+  },
+  {
+    "grand_prix": "Emilia Romagna",
+    "date": "01 Nov 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 63,
+    "time": "1:28:32.430"
+  },
+  {
+    "grand_prix": "Turkey",
+    "date": "15 Nov 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 58,
+    "time": "1:42:19.313"
+  },
+  {
+    "grand_prix": "Bahrain",
+    "date": "29 Nov 2020",
+    "winner": "Lewis Hamilton",
+    "car": "Mercedes",
+    "laps": 57,
+    "time": "2:59:47.515"
+  },
+  {
+    "grand_prix": "Sakhir",
+    "date": "06 Dec 2020",
+    "winner": "Sergio Perez",
+    "car": "Racing Point BWT Mercedes",
+    "laps": 87,
+    "time": "1:31:15.114"
+  },
+  {
+    "grand_prix": "Abu Dhabi",
+    "date": "13 Dec 2020",
+    "winner": "Max Verstappen",
+    "car": "Red Bull Racing Honda",
+    "laps": 55,
+    "time": "1:36:28.645"
+  }
+]

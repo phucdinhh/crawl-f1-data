@@ -1,0 +1,149 @@
+[
+  {
+    "pos": 1,
+    "driver": "Max Verstappen",
+    "nationality": "NED",
+    "car": "Red Bull Racing Honda",
+    "pts": 395
+  },
+  {
+    "pos": 2,
+    "driver": "Lewis Hamilton",
+    "nationality": "GBR",
+    "car": "Mercedes",
+    "pts": 387
+  },
+  {
+    "pos": 3,
+    "driver": "Valtteri Bottas",
+    "nationality": "FIN",
+    "car": "Mercedes",
+    "pts": 226
+  },
+  {
+    "pos": 4,
+    "driver": "Sergio Perez",
+    "nationality": "MEX",
+    "car": "Red Bull Racing Honda",
+    "pts": 190
+  },
+  {
+    "pos": 5,
+    "driver": "Carlos Sainz",
+    "nationality": "ESP",
+    "car": "Ferrari",
+    "pts": 164
+  },
+  {
+    "pos": 6,
+    "driver": "Lando Norris",
+    "nationality": "GBR",
+    "car": "McLaren Mercedes",
+    "pts": 160
+  },
+  {
+    "pos": 7,
+    "driver": "Charles Leclerc",
+    "nationality": "MON",
+    "car": "Ferrari",
+    "pts": 159
+  },
+  {
+    "pos": 8,
+    "driver": "Daniel Ricciardo",
+    "nationality": "AUS",
+    "car": "McLaren Mercedes",
+    "pts": 115
+  },
+  {
+    "pos": 9,
+    "driver": "Pierre Gasly",
+    "nationality": "FRA",
+    "car": "AlphaTauri Honda",
+    "pts": 110
+  },
+  {
+    "pos": 10,
+    "driver": "Fernando Alonso",
+    "nationality": "ESP",
+    "car": "Alpine Renault",
+    "pts": 81
+  },
+  {
+    "pos": 11,
+    "driver": "Esteban Ocon",
+    "nationality": "FRA",
+    "car": "Alpine Renault",
+    "pts": 74
+  },
+  {
+    "pos": 12,
+    "driver": "Sebastian Vettel",
+    "nationality": "GER",
+    "car": "Aston Martin Mercedes",
+    "pts": 43
+  },
+  {
+    "pos": 13,
+    "driver": "Lance Stroll",
+    "nationality": "CAN",
+    "car": "Aston Martin Mercedes",
+    "pts": 34
+  },
+  {
+    "pos": 14,
+    "driver": "Yuki Tsunoda",
+    "nationality": "JPN",
+    "car": "AlphaTauri Honda",
+    "pts": 32
+  },
+  {
+    "pos": 15,
+    "driver": "George Russell",
+    "nationality": "GBR",
+    "car": "Williams Mercedes",
+    "pts": 16
+  },
+  {
+    "pos": 16,
+    "driver": "Kimi Räikkönen",
+    "nationality": "FIN",
+    "car": "Alfa Romeo Racing Ferrari",
+    "pts": 10
+  },
+  {
+    "pos": 17,
+    "driver": "Nicholas Latifi",
+    "nationality": "CAN",
+    "car": "Williams Mercedes",
+    "pts": 7
+  },
+  {
+    "pos": 18,
+    "driver": "Antonio Giovinazzi",
+    "nationality": "ITA",
+    "car": "Alfa Romeo Racing Ferrari",
+    "pts": 3
+  },
+  {
+    "pos": 19,
+    "driver": "Mick Schumacher",
+    "nationality": "GER",
+    "car": "Haas Ferrari",
+    "pts": 0
+  },
+  {
+    "pos": 20,
+    "driver": "Robert Kubica",
+    "nationality": "POL",
+    "car": "Alfa Romeo Racing Ferrari",
+    "pts": 0
+  },
+  {
+    "pos": 21,
+    "driver": "Nikita Mazepin",
+    "nationality": "RAF",
+    "car": "Haas Ferrari",
+    "pts": 0
+  }
+]
